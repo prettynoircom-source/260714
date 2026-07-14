@@ -40,7 +40,7 @@ MBTI_DATA = {
 
 IMAGE_URL_TEMPLATE = (
     "https://raw.githubusercontent.com/PokeAPI/sprites/master/"
-    "sprites/pokemon/official-artwork/{dex}.png"
+    "sprites/pokemon/other/official-artwork/{dex}.png"
 )
 
 st.title("🔮 MBTI 직업 & 포켓몬 추천기")
